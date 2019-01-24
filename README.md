@@ -1,0 +1,2 @@
+# wisielec-cpp
+Do szkoły
